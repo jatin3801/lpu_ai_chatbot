@@ -1,0 +1,22 @@
+{
+  "name": "lpu_ai_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatin3801/lpu_ai_chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatin3801/lpu_ai_chatbot/issues"
+  },
+  "homepage": "https://github.com/jatin3801/lpu_ai_chatbot#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
